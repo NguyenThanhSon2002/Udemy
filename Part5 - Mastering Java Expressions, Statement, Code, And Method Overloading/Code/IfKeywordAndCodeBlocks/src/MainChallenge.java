@@ -42,7 +42,7 @@ public class MainChallenge {
 
     }
 
-    public static int (boolean gameOver, int score, int levelCompleted, int bonus) {
+    public static int caculateScore2(boolean gameOver, int score, int levelCompleted, int bonus) {
 
         int finalScore = score;
 
