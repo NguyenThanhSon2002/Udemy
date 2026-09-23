@@ -1,5 +1,6 @@
 public class ExCoding1 {
 
+    // Kiểm tra số âm, dương, 0
     static void main(String[] args) {
         checkNumber(5);
     }
