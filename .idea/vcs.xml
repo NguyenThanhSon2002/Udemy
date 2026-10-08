@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Part5 - Mastering Java Expressions, Statement, Code, And Method Overloading/Code/MethodOverloading" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part5 - Mastering Java Expressions, Statement, Code, And Method Overloading/Code/OverloadingChanllege" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part6 - Mastering Conditional Logic, Loops, And Interactive Java Applications/Code/DigitSumChallenge" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part6 - Mastering Conditional Logic, Loops, And Interactive Java Applications/Code/MinAndMaxChallenge" vcs="Git" />
@@ -20,6 +19,10 @@
     <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/ClassesChallenge" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/ClassesPart1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/ConstructorChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/P7-Challenge/ExCoding30" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/P7-Challenge/ExCoding31" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/P7-Challenge/ExCoding32" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/P7-Challenge/ExCoding33" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/RecordProject" vcs="Git" />
   </component>
 </project>
