@@ -1,6 +1,6 @@
 public class ExCoding2 {
 
-    // Đổi km -> mile
+    //Implementing A Speed Converter To Practice Basic Java Arithmetic And Output
     static void main(String[] args) {
         printConversion(1.5);
         printConversion(10.25);

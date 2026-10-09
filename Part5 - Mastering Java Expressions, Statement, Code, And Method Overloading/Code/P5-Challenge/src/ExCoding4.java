@@ -1,6 +1,6 @@
 public class ExCoding4 {
 
-    // Dậy nếu chó sủa
+    //Developing A 'Barking Dog' Program For Boolean Logic Familiarity
     public static void main(String[] args) {
         System.out.println(shouldWakeUp(true, 22));
     }

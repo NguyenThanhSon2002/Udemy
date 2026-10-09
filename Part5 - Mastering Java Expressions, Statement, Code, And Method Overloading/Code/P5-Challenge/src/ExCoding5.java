@@ -1,6 +1,6 @@
 public class ExCoding5 {
 
-    // Kiểm tra năm nhuận
+    //Implementing A Precise Leap Year Calculator To Enhance Conditional Reasoning
     public static void main(String[] args) {
         System.out.println(isLeapYear(1800));
     }

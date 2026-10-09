@@ -1,6 +1,6 @@
 public class ExCoding6 {
 
-    // Kiểm tra 2 số double có bằng nhau đến 3 chữ số thập phân hay không
+    //Building A Decimal Comparator To Practice Floating-Point Comparisons In Java
     static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(3.176, 3.175));
     }

@@ -1,6 +1,6 @@
 public class ExCoding3 {
 
-    // Chuyển KB -> MB và KB còn lại
+    //Accurate MegaBytes Converter For Mastering Integer Math In Java
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(2500);
         printMegaBytesAndKiloBytes(-1024);

@@ -1,6 +1,6 @@
 public class ExCoding1 {
 
-    // Kiểm tra số âm, dương, 0
+    // Comprehensive 'Positive, Negative, Or Zero' Assessment In Java
     static void main(String[] args) {
         checkNumber(5);
     }
