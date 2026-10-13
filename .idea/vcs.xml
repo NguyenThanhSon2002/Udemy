@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/InheritanceChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/StringFormatting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part7 - Mastering Java OOP - Classes &amp; Inheritance/Code/TheObjectClass" vcs="Git" />
   </component>
 </project>
